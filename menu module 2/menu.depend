@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1542144808 source:c:\users\andre\documents\c\menu\generatingcode.c
+	<stdio.h>
+	<stdlib.h>
+
+1542144890 source:c:\users\andre\documents\c\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1542122501 c:\users\andre\documents\c\menu\menu.h
+
+1542144890 source:c:\users\andre\documents\c\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generatingCode.h"
+	"cardio.h"
+
+1542122972 c:\users\andre\documents\c\menu\generatingcode.h
+
+1542122632 c:\users\andre\documents\c\menu\cardio.h
+
